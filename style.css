@@ -87,7 +87,7 @@ main{
   width: 2em;
 }
 .card-wrapper .card-footer .card-author{
-  font-size: 14px;
+  font-size: 0.8750em;
   font-weight: 800;
   color: var(--Gray-950);
 }
