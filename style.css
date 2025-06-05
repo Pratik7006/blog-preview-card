@@ -57,6 +57,7 @@ main{
   padding: 4px 12px;
   border: 0;
   background-color: var(--Yellow);
+  cursor:none;
   
 }
 
