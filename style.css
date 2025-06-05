@@ -92,8 +92,8 @@ main{
   color: var(--Gray-950);
 }
 
-@media (prefers-reduced-motion: no-preference) {
+@media (prefers-reduced-motion: reduced) {
   .your-element {
-    transition: box-shadow 0.25s ease-in-out;
+    transition: none;
   }
 }
