@@ -87,13 +87,13 @@ main{
   width: 2em;
 }
 .card-wrapper .card-footer .card-author{
-  font-size: 0.8750em;
+  font-size: 14px;
   font-weight: 800;
   color: var(--Gray-950);
 }
 
-@media (prefers-reduced-motion: reduced) {
+@media (prefers-reduced-motion: no-preference) {
   .your-element {
-    transition: none;
+    transition: box-shadow 0.25s ease-in-out;
   }
 }
